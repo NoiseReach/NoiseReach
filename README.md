@@ -6,8 +6,6 @@ Merhaba!
 <p align="center">
     <img height="300em" src="https://user-images.githubusercontent.com/62043732/115986777-3e0b5f00-a588-11eb-8b42-a20dc086e4ea.gif"/>
 </p>
-<p align="center">
-    <img height="200em" src=""/>
 </p>
 
 #### Languages
