@@ -22,5 +22,5 @@ Merhaba!
   ![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-grey?style=for-the-badge&logo=sublime-text&logoColor=yellow)
 ---
 <p align="center">
-    <a href="https://discord.gg/3Gqq4ZWn"><img src="https://img.shields.io/badge/-ALPHA ｓｔｒ０ｎｇＺ_6970-0B4BB8?style=flat-square&logo=discord"/></a>
+    <a href="https://discord.gg/3Gqq4ZWn"><img src="https://img.shields.io/badge/-BERAT_9240-0B4BB8?style=flat-square&logo=discord"/></a>
 </p>
